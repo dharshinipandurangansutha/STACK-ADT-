@@ -1,0 +1,2 @@
+# STACK-ADT-
+Practical program 
